@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Cloning
 - 🌱 I’m currently learning ...how to clone
 - 💞️ I’m looking to collaborate on ...this work
-- 📫 How to reach me ... rogersonyango568@gmail.com
+- 📫 How to reach me ... rogersonyango87@gmail.com
 - 😄 Pronouns: ...We do great work
 - ⚡ Fun fact: ...Your ex still admires you
 
