@@ -1,12 +1,162 @@
-- 👋 Hi, I’m @ROGERS-4
-- 👀 I’m interested in ...Cloning
-- 🌱 I’m currently learning ...how to clone
-- 💞️ I’m looking to collaborate on ...this work
-- 📫 How to reach me ... rogersonyango87@gmail.com
-- 😄 Pronouns: ...We do great work
-- ⚡ Fun fact: ...Your ex still admires you
+Hello 👋 am RODGERS CEO ROYTECH DEVELOPERS
 
-<!---
-ROGERS-4/ROGERS-4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!---## 🤖 WhatsApp Automation Ecosystem — Rodgers-Md
+
+> A **large-scale, modular WhatsApp automation system** engineered for AI, media processing, scraping, system control, and enterprise-level automation.
+
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1517433456452-f9633a875f6f" width="100%" />
+</p>
+
+### 📦 System Overview
+- 🧩 **Total Plugins:** 278+
+- ⚙️ **Architecture:** Modular & Scalable
+- 🤖 **AI-Integrated**
+- 🔐 **Owner & Role-Based Controls**
+- 🚀 **24/7 Automation Ready**
+
+---
+
+<details>
+<summary><strong>🧠 AI MODULES</strong></summary>
+
+- hd, sora, flux, vision
+- wormgpt, muslimai, bibleai
+- speechwriter, transcribe
+- shazam, bing, imageedit
+- removebg, vocalremover
+
+</details>
+
+<details>
+<summary><strong>🛠️ TOOLS</strong></summary>
+
+- sharephone, onwhatsapp
+- fancy, tts, translate
+- langcodes, scan
+- walink, qrgenerator
+
+</details>
+
+<details>
+<summary><strong>🌐 SEARCH & INTELLIGENCE</strong></summary>
+
+- google, brave, news
+- movie, lyrics, yts
+- image, wagroup
+- ghfollowers, ghfollowing
+
+</details>
+
+<details>
+<summary><strong>🧠 GPT SYSTEM</strong></summary>
+
+- gpt
+- gpthistory
+- lastchat
+- clearai
+
+</details>
+
+<details>
+<summary><strong>📤 UPLOADER & CONVERTERS</strong></summary>
+
+- Media converters (mp3, mp4, gif, ptt)
+- view-once tools
+- audio & document processing
+
+</details>
+
+<details>
+<summary><strong>🎓 EDUCATION</strong></summary>
+
+- math, dictionary
+- poem, fruit
+
+</details>
+
+<details>
+<summary><strong>🎭 FUN & RANDOM</strong></summary>
+
+- jokes, memes, facts
+- truth, dare, paranoia
+- quote, inspirobot
+
+</details>
+
+<details>
+<summary><strong>👥 GROUP MANAGEMENT</strong></summary>
+
+- kick, add, promote, demote
+- tagall, hidetag
+- open/close time
+- polls & approvals
+
+</details>
+
+<details>
+<summary><strong>👑 OWNER / ADMIN POWER</strong></summary>
+
+- eval, shell, fetch
+- sudo management
+- profile & privacy tools
+- system control commands
+
+</details>
+
+<details>
+<summary><strong>🖼️ MEDIA GENERATION (EPHOTO & PHOTOFUNIA)</strong></summary>
+
+- neon, glitch, galaxy
+- graffiti, fire, thunder
+- cartoon, tattoo, zodiac
+- intro videos & effects
+
+</details>
+
+<details>
+<summary><strong>⬇️ DOWNLOADERS</strong></summary>
+
+- YouTube, TikTok, Instagram
+- Facebook, Twitter
+- Spotify, SoundCloud
+- APK & media fetchers
+
+</details>
+
+<details>
+<summary><strong>🔍 STALKER & OSINT TOOLS</strong></summary>
+
+- GitHub, NPM, YouTube
+- Instagram, TikTok
+- Country & channel intelligence
+
+</details>
+
+<details>
+<summary><strong>⚙️ SYSTEM & SETTINGS</strong></summary>
+
+- auto-reply, auto-read
+- anti-delete, anti-link
+- chatbot, status automation
+- prefix, timezone, presence
+
+</details>
+
+<details>
+<summary><strong>🧷 STICKERS</strong></summary>
+
+- sticker maker
+- tgs support
+- sticker search
+
+</details>
+
+---
+
+### 🚀 Powered By
+**RODGERS ONYANGO**  
+Automation Engineer • WhatsApp Bot Architect • API Developer
+
+> *“Automation at scale is not optional — it’s the standard.”*
+ROGERS-4/ROGERS-4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub production 
