@@ -1,4 +1,5 @@
 Hello 👋 am RODGERS CEO ROYTECH DEVELOPERS
+Working on various projects like:
 WhatsApp Automation Ecosystem — Rodgers-Md
 
 > A **large-scale, modular WhatsApp automation system** engineered for AI, media processing, scraping, system control, and enterprise-level automation.
